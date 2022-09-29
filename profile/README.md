@@ -4,10 +4,11 @@
 
 Mental health is more crucial than ever, especially with how quickly the world is changing. Sometimes, especially with young people, we just need someone to chat to, ask for advice from, share things with, etc. to help us unwind and relieve tension. On the other hand, hearing other people's stories can be a useful method to learn about society from many angles or even just to sympathize those who are having difficulties.
 
-Here's where Bifroz steps in as a platform that connect:
+Here's where **Bifroz** steps in as a platform that connect:
+- People who is having something on their mind and is having difficulty finding someone to talk to
+- People who wishes to listen to other people's stories.
 
-People who is having something on their mind and is having difficulty finding someone to talk to
-People who wishes to listen to other people's stories.
+
 By bringing individuals together and enabling them to communicate with one another, the product's ultimate purpose is to improve humanity's general mental wellness.
 <!--
 
